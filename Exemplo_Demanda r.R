@@ -1,9 +1,5 @@
 ### INTRODUÇÃO À ANÁLISE DE DADOS APLICADA 
 
-### ----------------------- Aula do dia 10/08 ----------------###
-# Teoria
-### ----------------------- Aula do dia 17/08 ----------------###
-# Teoria
 ### ----------------------- Aula do dia 24/08 ----------------###
 
 ### Importando os Dados
